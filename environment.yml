@@ -1,0 +1,15 @@
+name: burgers-pinns
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python
+  - torch
+  - numpy
+  - matplotlib
+  - scipy
+  - tqdm
+  - jupyterlab
+  - pandas
+  - seaborn
+  - scikit-learn
