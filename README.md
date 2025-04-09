@@ -75,4 +75,4 @@ All results are saved inside the `result/` folder.
 ---
 
 ## License
-This project is open-sourced under the MIT License.
+This project is open-sourced under the [MIT License](https://github.com/veydantkatyal/PINN-1D-burger-equation/blob/main/LICENSE).
